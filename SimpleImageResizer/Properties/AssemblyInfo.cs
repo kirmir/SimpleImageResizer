@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Simple Image Resizer")]
-[assembly: AssemblyCopyright("Мирошниченко К.В. (kirmiro@gmail.com)")]
+[assembly: AssemblyCopyright("Kyrylo Myroshnychenko")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
